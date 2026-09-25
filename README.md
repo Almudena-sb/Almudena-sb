@@ -2,7 +2,7 @@
 
 🎓 **Técnica Superior en DAM** | 🤖 **Especialista en Big Data e Inteligencia Artificial**
 
-Desarrolladora de aplicaciones con una sólida base técnica en desarrollo multiplataforma y tecnologías de datos. Actualmente construyendo y publicando proyectos prácticos.
+Desarrolladora de aplicaciones con una base técnica en desarrollo multiplataforma y tecnologías de datos. Actualmente construyendo y publicando proyectos prácticos.
 
 - 🚀 **Formación:** Grado Superior en DAM + Curso de Especialización en Big Data & IA (250 horas).
 - 💼 **Experiencia en prácticas:** Desarrollo con React, JavaScript y contenedorización con Docker.
